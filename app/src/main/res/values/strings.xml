@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Shop-ix Deliver</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="main">Главный</string>
+    <string name="orders">Заказы</string>
+    <string name="log_out">Выйти</string>
+    <string name="profile_userName">Имя пользователя</string>
+    <string name="profile_phone_number">Номер телефона</string>
+    <string name="profile_edit_title">Редактирование профиля</string>
+    <string name="photo_loaded_successfully">Изображение успешно загружено</string>
+    <string name="fill_fields">Заполните поля</string>
+    <string name="error">Ошибка</string>
+    <string name="loading">Загрузка…</string>
+    <string name="login_password_not_found">Неверный логин или пароль</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="no_data_available">Данные не найдены</string>
+
+    <string name="log_out_warning">Вы уверены, что выйти?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отменить</string>
+
+
+    <string name="error_no_internet_connection">Подключение к Интернету отсутствует</string>
+    <string name="error_retry">Снова пробовать</string>
+    <string name="version">Версия вашего приложения очень старая, пожалуйста, обновите ее</string>
+    <string name="update">Обновить</string>
+    <string name="history">История</string>
+    <string name="debtors">Должники</string>
+
+    //order
+    <string name="order_number">Заказ № %d</string>
+    <string name="order_number_shop">Заказ № %d :</string>
+    <string name="order_number_static">Заказ №</string>
+    <string name="emporium_name">Название рынок:</string>
+    <string name="delivery_date">Дата доставки: %s</string>
+    <string name="deliver_date">Дата доставки:</string>
+    <string name="price">Цена:</string>
+    <string name="payment_type">Способ оплаты: %s</string>
+    <string name="payment_type_static">Способ оплаты:</string>
+    <string name="order_status">Статус заказа:</string>
+    <string name="cash">Наличные</string>
+    <string name="cash_card">Пластик</string>
+    <string name="transfer">Перечисление</string>
+    <string name="delevired">Доставлен</string>
+    <string name="cancelled">Отменен</string>
+    <string name="process">Процесс</string>
+    <string name="accepted">Принято</string>
+    <string name="received">Получено</string>
+    <string name="order_price">%.2f сум</string>
+    <string name="unit_of_measure">Ед. из.ния:</string>
+    <string name="unit_price">Цена за ед.цу:</string>
+    <string name="order_quantity">Зак.ное Кол.во:</string>
+    <string name="bonus">Бонус:</string>
+    <string name="price_order">Сто.сть заказа:</string>
+    <string name="order">Цена:</string>
+    <string name="address">Адрес: %s</string>
+    <string name="shop_address">Адрес:</string>
+    <string name="phone">Телефон: %s</string>
+    <string name="add_more">Добавить больше</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="add_order">Добавить заказ</string>
+    <string name="one_product_price">Цена продукта: %.2f сум</string>
+    <string name="product_total_sum">Итоговая сумма: %.2f сум</string>
+    <string name="total_sum_order">Итоговая сумма:\n %.2f сум</string>
+    <string name="report_type_static">Тип отчета</string>
+    <string name="send">Отправлять</string>
+    <string name="block">Блок: %d шт</string>
+    <string name="piece">Штук</string>
+    <string name="loan">Кредит: %s</string>
+    <string name="loan_term">Срок кредита: %s</string>
+    <string name="no">Нет</string>
+    <string name="shop">Магазин:</string>
+    <string name="order_made">Заказ был сделан</string>
+    <string name="order_accepted">Заказ принят</string>
+    <string name="order_cancelled_by_admin">Заказ отменен администратором</string>
+    <string name="order_delivered">Заказ доставлен</string>
+    <string name="order_cancelled_by_store">Заказ отменен магазином</string>
+    <string name="order_paid">Заказ оплачен</string>
+    <!--zakaz uchun-->
+
+</resources>
